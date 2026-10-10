@@ -62,4 +62,4 @@ python -m pytest
 - **Cloud-readiness**: no hard-coded paths, env-var overrides, logs written to a file that can be shipped to a log aggregator.
 
 ## Author
-<Timothy Manasan>
+Timothy Manasan
