@@ -32,7 +32,7 @@ student-info-system/
 
 ## Getting Started
 ```bash
-git clone https://github.com/<Timo405>/student-info-system.git
+git clone https://github.com/Timo405/student-info-system.git
 cd student-info-system
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
